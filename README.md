@@ -4,6 +4,8 @@
  
 Sometimes the biopsy result might indicate a tumor to be Benign (Harmless) but later this tumor may split and spread infecting internal tissues turning into a Malignant tumor (Harmful) hence, predicting the biopsy (FNA) result and predict if a tumor could actual be Malignant (Spreading/Harmful) in the future.
 
+
+
 PREPROCESSING THE DATA:
 
 We have  11 variables which are 
@@ -19,6 +21,8 @@ Normal Nucleoli
 Mitoses 
 Class 
 
+ 
+ 
  
 ANALYSIS :
  
