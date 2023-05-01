@@ -1,17 +1,17 @@
  PREDICTION-CANCER
  
- Business Problem: 
+ **Business Problem: **
  
 Sometimes the biopsy result might indicate a tumor to be Benign (Harmless) but later this tumor may split and spread infecting internal tissues turning into a Malignant tumor (Harmful) hence, predicting the biopsy (FNA) result and predict if a tumor could actual be Malignant (Spreading/Harmful) in the future.
 
-SOURCE DATA INFO : 
+**SOURCE DATA INFO : **
 
 The source data is sampled clinical trial findings for the Wisconsin city. The findinds dataset contains the test results of a popular biposy technique called (FNA)Fine Needle Aspirate.
 
 resource: UCI ML repository: [reference link](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 
-PREPROCESSING THE DATA:
+**PREPROCESSING THE DATA:**
 
 We have  11 variables which are 
 Sample code number 
@@ -29,7 +29,7 @@ Class
  
  
  
-ANALYSIS :
+**ANALYSIS :**
  
 1.We have worked together as a team to perform the  analysis from the inputs taken from Data Mining Class which focused on exploring concepts like machine leraning algorithms.
  
